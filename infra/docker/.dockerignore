@@ -1,0 +1,51 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+JusticeFlow/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Cache
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+# HuggingFace cache
+.huggingface/
+
+# Model cache
+models/
+
+# Docker
+Dockerfile
+
+# Build
+dist/
+build/
+
+# Tests
+tests/
+
+# Notebook
+*.ipynb
+
+# Local files
+*.sqlite
